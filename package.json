@@ -10,7 +10,6 @@
   "author": "Gadisa Asfaw",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.2",
     "express": "^4.17.2",
     "morgan": "^1.10.0"
   }
